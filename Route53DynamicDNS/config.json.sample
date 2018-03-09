@@ -1,0 +1,10 @@
+{
+  "GetPublicIPTries": 3,
+  "AwsAccessKeyId": "",
+  "AwsSecretAccessKey": "",
+  "DomainName": "",
+  "HostedZoneId": "",
+  "AWSGetChangeSleepTime": 5000,
+  "DnyDNSPollTime": 600000,
+  "WriteLogsOnlyIfIPChanged": false
+}
